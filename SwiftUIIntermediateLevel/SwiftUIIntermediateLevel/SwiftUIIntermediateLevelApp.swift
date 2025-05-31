@@ -11,7 +11,8 @@ import SwiftUI
 struct SwiftUIIntermediateLevelApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RotationGestureBootcamp()
+//            ContentView()
         }
     }
 }
